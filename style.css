@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Lakki+Reddy&display=swap');
+
+
+
+img{
+    width: 500px;
+    border-radius: 90%;
+    margin-top: 4%;
+    
+}
+
+body{
+    text-align: center;
+    font-family: 'Lakki Reddy', cursive;
+    font-size: 1.8em;
+    background-color: black;
+    color: white;
+    text-shadow: 2px 3px grey;
+    padding-top: 0;
+    margin: 0;
+}
+
+
+marquee{
+    
+    padding: 0 40%;
+    font-size: 1.5em;
+    font-family: 'Lakki Reddy', cursive;
+
+}
+
+h1{
+    padding-top: 0;
+    margin: 0;
+    background-color: yellow;
+    color: black;
+
+}
+h2{
+    padding: 0;
+    margin: 0;
+    background-color: yellow;
+    color: black;
+
+}
+h3{
+    padding: 0;
+    margin: 0;
+    background-color: yellow;
+    color: black;
+
+}
+h4{
+    padding: 0;
+    margin: 0;
+    background-color: yellow;
+    color: black;
+
+}
+h5{
+    padding: 0;
+    margin: 0;
+    background-color: yellow;
+    color: black;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: red;
+}
+
